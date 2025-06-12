@@ -1,5 +1,8 @@
 # The OpenList Team
+
 It is an AList Fork.
+
+For Anti Open Source Trust Attack Crisis.
 
 # Projects
 
