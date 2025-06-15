@@ -1,6 +1,12 @@
 # 🌀 The OpenList Team
 
-> OpenList is a resilient, community-driven fork of AList — built to defend open source against trust-based attacks.
+OpenList is a resilient, community-driven fork of AList — built to defend open source against trust-based attacks.
+
+> [!IMPORTANT]
+> 
+> 除官方 Github、官方 Telegram 群聊外，目前 OpenListTeam 没有任何其他平台的官方账号。
+>
+> Apart from the official Github organization and the official Telegram group chat, OpenListTeam currently does not have any official accounts on other platforms.
 
 ---
 
