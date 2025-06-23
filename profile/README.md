@@ -22,7 +22,9 @@ OpenList is a resilient, community-driven fork of AList — built to defend open
 
 * 🏠 [OpenList](https://github.com/OpenListTeam/OpenList)
 
-* 📄 [Docs & Install Guide]()
+* 📄 [Docs & Install Guide](https://docs.oplist.org)
+
+* 📄 [Backup Docs Site](https://docs.openlist.team)
 
 ---
 
