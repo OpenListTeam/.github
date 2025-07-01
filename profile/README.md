@@ -1,7 +1,5 @@
 # 🌀 The OpenList Team
 
-OpenList is a resilient, community-driven fork of AList — built to defend open source against trust-based attacks.
-
 > [!IMPORTANT]
 > 
 > 除官方 Github、官方 Telegram 群聊外，目前 OpenListTeam 没有任何其他平台的官方账号。
@@ -12,19 +10,17 @@ OpenList is a resilient, community-driven fork of AList — built to defend open
 
 ## 🛡️ Purpose
 
-**OpenList** exists to ensure the long-term freedom and trustworthiness of open-source file listing systems, in response to the _Open Source Trust Crisis_.
+**OpenList** is a resilient, community-driven fork of AList, built to ensure long-term freedom and trust in open-source file listing systems amid the _Open Source Trust Crisis_.
 
 ---
 
 ## 🧰 Projects
 
-* **OpenList** — Drop-in replacement for AList with long-term governance, no hidden risks, and full transparency.
-
 * 🏠 [OpenList](https://github.com/OpenListTeam/OpenList)
 
-* 📄 [Docs & Install Guide](https://docs.oplist.org)
+* 📘 [Docs & Install Guide](https://docs.oplist.org)
 
-* 📄 [Backup Docs Site](https://docs.openlist.team)
+* 📚 [Backup Docs Site](https://docs.openlist.team)
 
 ---
 
@@ -32,8 +28,15 @@ OpenList is a resilient, community-driven fork of AList — built to defend open
 
 **Primary:**
 
-* 🔗 [https://openlist.team](https://openlist.team)
 * 🔗 [https://oplist.org](https://oplist.org)
+
+**CDN for CN Users:**
+
+* 🔗 [https://oplist.org.cn](https://oplist.org.cn)
+
+**Backup:**
+
+* 🔗 [https://openlist.team](https://openlist.team)
 
 **Legacy (Expiring Soon):**
 
