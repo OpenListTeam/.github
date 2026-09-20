@@ -20,8 +20,6 @@
 
 * 📘 [Docs & Install Guide](https://docs.oplist.org)
 
-* 📚 [Backup Docs Site](https://docs.openlist.team)
-
 ---
 
 ## 🌐 Our Domains
@@ -34,16 +32,25 @@
 
 * 🔗 [https://oplist.org.cn](https://oplist.org.cn)
 
-**Backup:**
-
-* 🔗 [https://openlist.team](https://openlist.team)
-
 **Legacy (Expiring Soon):**
 
-* ⚠️ [https://openalist.org](https://openalist.org)
-* ⚠️ [https://open-alist.org](https://open-alist.org)
 * ⚠️ [https://openli.st](https://openli.st)
-* ⚠️ [https://openlist.cc](https://openlist.cc)
+
+**Expired:**
+
+* ⛔ `openalist.org`
+* ⛔ `open-alist.org`
+* ⛔ `openlist.cc`
+
+**No Longer Controlled:**
+
+* 🚨 `openlist.team`
+* 🚨 `docs.openlist.team`
+
+> [!WARNING]
+>
+> The domains listed under "No Longer Controlled" are not affiliated with OpenListTeam. Do not visit or trust content served from them.
+ 
 
 ---
 
